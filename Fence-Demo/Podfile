@@ -1,0 +1,5 @@
+platform :ios, '9.0'
+
+target 'Fence-Demo' do
+pod 'AMap3DMap'
+end
